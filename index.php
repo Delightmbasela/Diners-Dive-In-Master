@@ -9,11 +9,11 @@
     <div id="header">
     <nav>
     <ul>
-      <li>Home</li>
-      <li>About</li>
-      <li>Contact Us</li>
-      <li>Sign up</li>
-      <li>Sign in</li>
+      <a>Home</a>
+      <a>About</a>
+      <a>Contact Us</a>
+      <a>Sign up</a>
+      <a>Sign in</a>
     </ul>
     </nav>
   </div>
