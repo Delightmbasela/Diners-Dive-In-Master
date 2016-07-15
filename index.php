@@ -5,8 +5,20 @@
 <title>Diners Dive In</title>
 </head>
 <body>
-<div id="header">
-   </div>
+  <div class="container">
+    <div id="header">
+    <nav>
+    <ul>
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact Us</li>
+      <li>Sign up</li>
+      <li>Sign in</li>
+    </ul>
+    </nav>
+  </div>
+  </div>
+  
 
 </body>
 </html>
