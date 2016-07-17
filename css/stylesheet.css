@@ -2,22 +2,20 @@
     padding: 1em;
     color: white;
     background-color: black;
-    clear: left;
-    text-align: center;
 }
 
-left_section {
-    float: left;
-    max-width: 160px;
+#header h1 {
+    font-family: "Calibri Light";
+}
+
+#left_section{
     margin: 0;
     padding: 1em;
 }
 
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
+#left_section ul{
+    list-style-type: none;
+    padding: 0;
 }
 
 nav ul {
@@ -26,7 +24,7 @@ nav ul {
 }
    
 nav ul a {
-    display: in-line
+    display: inline;
     text-decoration: none;
     padding: 5px;
 }
