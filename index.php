@@ -22,7 +22,7 @@
 
 <div id="mid_section" class="container">
     <div class="container" id="left_section">
-        <h2>Features</h2>
+        +<h2>Features</h2>
         <ul>
             <li><img alt="Restaurants"></li>
             <li><img alt="Bars"></li>

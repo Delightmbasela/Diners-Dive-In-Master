@@ -3,6 +3,19 @@
     color: white;
     background-color: black;
 }
+html {
+    font-family: sans-serif;
+    /* 1 */
+    -ms-text-size-adjust: 100%;
+    /* 2 */
+    -webkit-text-size-adjust: 100%;
+    /* 2 */ }
+
+/**
+   * Remove default margin.
+   */
+body {
+    margin: 0; }
 
 #header h1 {
     font-family: "Calibri Light";
