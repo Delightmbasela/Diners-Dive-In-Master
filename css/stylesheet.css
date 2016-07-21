@@ -1,0 +1,48 @@
+#header, #footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+}
+html {
+    font-family: sans-serif;
+    /* 1 */
+    -ms-text-size-adjust: 100%;
+    /* 2 */
+    -webkit-text-size-adjust: 100%;
+    /* 2 */ }
+
+/**
+   * Remove default margin.
+   */
+body {
+    margin: 0; }
+
+#header h1 {
+    font-family: "Calibri Light";
+}
+
+#left_section{
+    margin: 0;
+    padding: 1em;
+}
+
+#left_section ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    display: inline;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.container {
+    width: 100%;
+    border: 1px solid gray;
+}
