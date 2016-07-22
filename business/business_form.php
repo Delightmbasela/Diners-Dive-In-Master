@@ -19,6 +19,7 @@
     Choose Type of Business:<br>
 
     <select name="BusinessType">
+        <option value="blank"></option>
         <option value="Restauant">Restaurant</option>
         <option value="NightClub">Night Club</option>
         <option value="Bar">Bar</option>
@@ -28,12 +29,14 @@
 
     Enter Country:<br>
     <select name="Country">
+        <option value="blank"></option>
         <option value="Zambia">Zambia</option>
     </select>
     <br>
 
     Enter City:<br>
     <select name="City">
+        <option value="blank"></option>
         <option value="Kitwe">Kitwe</option>
         <option value="Lusaka">Lusaka</option>
         <option value="Kasama">Kasama</option>
